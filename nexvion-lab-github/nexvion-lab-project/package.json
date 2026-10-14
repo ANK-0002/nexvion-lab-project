@@ -1,0 +1,9 @@
+{
+  "name": "nexvion-lab",
+  "version": "1.0.0",
+  "description": "nexvion.lab - iOS 27 Dark AI Video Clipper",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve ."
+  }
+}
